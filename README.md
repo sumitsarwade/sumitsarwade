@@ -1,4 +1,4 @@
-
+![MasterHead](https://www.polyu.edu.hk/its/-/media/department/its/events/2022/1/20220127-event-deep-learning-with-python_afternoon.gif)
 
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">Carving knowledge from data, one layer at a time.</h3>
