@@ -1,8 +1,9 @@
-![MasterHead](https://www.polyu.edu.hk/its/-/media/department/its/events/2022/1/20220127-event-deep-learning-with-python_afternoon.gif)
 
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">Carving knowledge from data, one layer at a time.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif">
+
+
+<img align="right" alt="Coding" width="550" height="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsarwade&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsarwade" /> </p>
 
