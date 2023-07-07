@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="350" height="250" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsarwade&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsarwade" /> </p>
 
 
 - 🌱 I’m currently learning **MLOPs**
