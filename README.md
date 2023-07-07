@@ -37,10 +37,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SOL" width="110" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="tens" width="110" height="67">
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="doc" width="60" height="60">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQadzpA7s-8XmS-KUToSg4WnvieCZVd6kZaqQ&usqp=CAU" alt="doc" width="100" height="67">
-<img src="https://encrypted-tbn0.gstatic.com/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9S3_se5zHzDgac-idS9ihI-VTIPq38yWws_xeuRiSQw&s" alt="doc" width="120" height="67">
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/180px-NumPy_logo_2020.svg.png" alt="num" width="120" height="67">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" alt="pandas" width="125" height="67">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/180px-Scikit_learn_logo_small.svg.png" alt="doc" width="90" height="65">
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitsarwade&show_icons=true&locale=en" alt="sumitsarwade" /></p>
