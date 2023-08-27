@@ -2,6 +2,8 @@
 
 Welcome to my data-driven universe! 🌌 It's all about transforming raw data into actionable insights and creating meaningful stories from complex datasets. If you're curious about data science, machine learning, and unleashing the potential of information, you're in the right place. Let's embark on this exciting journey together! 💡
 
+![](https://komarev.com/ghpvc/?username=sumitsarwade&color=blueviolet)
+
 <img align="right" alt="Coding" width="350" height="250" src="https://aclm.in/wp-content/uploads/2021/09/bar_chart_animation-1.gif">
 
 ## About Me 🧑🏻‍🔬
