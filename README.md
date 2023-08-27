@@ -4,7 +4,7 @@ Welcome to my data-driven universe! 🌌 It's all about transforming raw data in
 
 <img align="right" alt="Coding" width="350" height="250" src="https://aclm.in/wp-content/uploads/2021/09/bar_chart_animation-1.gif">
 
-## About Me 👤
+## About Me 🧑🏻‍🔬
 
 I'm Sumit Sarwade, Data Analytics and Machine Learning Professional. My expertise lies in analyzing large datasets, generating data-driven insights, and developing models. My core competencies include Data Analytics and Machine Learning and I have hands-on experience in developing predictive models, classification algorithms, and clustering techniques 🚀
 
