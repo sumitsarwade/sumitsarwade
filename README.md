@@ -4,7 +4,6 @@ Welcome to my data-driven universe! 🌌 It's all about transforming raw data in
 
 ![](https://komarev.com/ghpvc/?username=sumitsarwade&color=blueviolet)
 
-<img align="right" alt="Coding" width="350" height="250" src="https://aclm.in/wp-content/uploads/2021/09/bar_chart_animation-1.gif">
 
 ## About Me 🧑🏻‍🔬
 
