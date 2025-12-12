@@ -8,7 +8,9 @@ Welcome to my data-driven universe! 🌌 It's all about transforming raw data in
 
 ## About Me 🧑🏻‍🔬
 
-I'm Sumit Sarwade, Data Analytics and Machine Learning Professional. My expertise lies in analyzing large datasets, generating data-driven insights, and developing models. My core competencies include Data Analytics and Machine Learning and I have hands-on experience in developing predictive models, classification algorithms, and clustering techniques 🚀
+I'm Sumit Sarwade, a Data Analytics and Machine Learning Professional with **1 year of hands-on experience** in working with real-world datasets and building end-to-end data solutions.
+
+My expertise lies in analyzing large datasets, generating insights, and developing machine learning models. I have strong proficiency in **Python, Data Analytics, ML algorithms, NLP, and Deep Learning**, along with hands-on experience in solving practical problems through data-driven approaches 🚀
 
 ## 🚀 Soaring with Skills
 
